@@ -1,0 +1,22 @@
+From: support@paypa1.com
+To: viswa@example.com
+Subject: Your account has been temporarily limited
+
+Date: Mon, 22 Sep 2025 09:12:34 +0530
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Customer,
+
+We detected unusual activity on your PayPal account and have temporarily limited access for your protection.
+To restore full access and avoid permanent suspension, please confirm your account details immediately.
+
+Click here to verify your account:
+http://secure-paypal.verify-account.example.com/verify?uid=8741
+
+If you do not verify within 24 hours, your account access will remain restricted.
+
+Sincerely,
+PayPal Support Team
+
+P.S. If you didn't try to sign in, please contact us ASAP.
