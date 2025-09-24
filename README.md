@@ -20,7 +20,7 @@ Analyze a suspicious email to identify phishing indicators and learn how to veri
 ## Files in this repo
 - `phishing_email_sample.txt` — raw email content analyzed  
 - `analysis_report.md` — my detailed findings and remediation steps  
-- `screenshots/` — (optional) screenshots of header analysis or link checks
+- `screenshots/` — ( screenshots of header analysis or link checks
 
 ## Submission Notes
 - I did not click links or open attachments.  
