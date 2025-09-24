@@ -12,10 +12,10 @@ Analyze a suspicious email to identify phishing indicators and learn how to veri
 5. Summarized the phishing traits and recommended actions.
 
 ## Tools I Used
-- Any text editor (to view saved email)  
-- Online header analyzer (e.g., MXToolbox Header Analyzer)  
+- text editor   
+- Online header analyzer (MXToolbox Header Analyzer)  
 - Browser (hovered links without opening)  
-- (Optional) Screenshot tool for evidence
+- Screenshot tool for evidence
 
 ## Files in this repo
 - `phishing_email_sample.txt` — raw email content analyzed  
